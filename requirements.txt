@@ -1,0 +1,4 @@
+To be able to run the codes you need to install the following two packages; the versions are not important
+Pillow
+tkinter 
+
